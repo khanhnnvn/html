@@ -1,0 +1,16 @@
+table thead tr th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table tbody tr td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.input_td {
+	width: 50px;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+}

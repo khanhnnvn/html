@@ -1,0 +1,199 @@
+{
+  "draw": 1,
+  "recordsTotal": 57,
+  "recordsFiltered": 57,
+  "data": [
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 1,
+      "ip_address": "192.168.0.1",
+      "ip_status":"online",
+      "ping_time": "52 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    },
+    {
+      "id": 2,
+      "ip_address": "192.168.2.1",
+      "ip_status":"offline",
+      "ping_time": "61 ms",
+      "created_at": "2015-10-21 10:23:23",
+      "updated_at": "2015-10-22 10:23:23"
+    }
+  ]
+}
